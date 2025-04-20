@@ -1,8 +1,8 @@
-# SQL_Project_5
+# Python_Project_5
 
 ### Data source:  https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
-Энэхүү төсөл нь Linkedin дээрх ажлын сонгон шалгаруулалтын датан дээр суурилж хийгдсэн ба нийт 15 асуултанд SQL хэл ашиглан хариулсан.
+Энэхүү төсөл нь Linkedin дээрх ажлын сонгон шалгаруулалтын датан дээр суурилж хийгдсэн ба нийт 18 асуултанд python (Pandas, Seaborn, Matplotlib.pyplot) хэл ашиглан хариулсан.
 
 ### Асуултууд:
 
